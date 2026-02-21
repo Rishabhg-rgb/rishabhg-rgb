@@ -1,10 +1,11 @@
 ---
 # 👋 Hi, I’m Rishabh Goswami
 
-🚀 **Full Stack Software Engineer** with 3+ years of experience building scalable, enterprise-grade web applications using modern JavaScript frameworks and cloud infrastructure.
+🚀 **Full Stack Software Engineer** with 3+ years of experience building scalable, production-ready web applications using modern JavaScript frameworks and cloud infrastructure.
 
-I focus on clean architecture, performance, and building systems that scale reliably in production.
+I enjoy working across the stack — from building responsive user interfaces to designing reliable backend systems and APIs. I care deeply about clean architecture, performance optimization, and writing code that’s easy to maintain and scale in real-world production environments.
 
+I’ve worked in Agile teams, collaborated closely with designers and product stakeholders, and enjoy mentoring junior engineers while continuously learning new tools and technologies.
 ---
 
 ## 🧑‍💻 About Me
@@ -84,28 +85,6 @@ I focus on clean architecture, performance, and building systems that scale reli
 * Story breakdown
 * Code reviews
 
----
-
-## 📌 Key Projects
-
-### 🏥 Rehab Management System
-
-**Tech:** React, Node.js, MongoDB, AWS S3, JWT
-
-* Role-based dashboards for 4+ user types
-* Secure file handling & patient lifecycle management
-* Reduced operational overhead via automation
-
-### 🎬 Production House Platform
-
-**Tech:** Next.js, Node.js, Express.js, MySQL
-
-* Vendor & production workflow management
-* Optimized relational database design
-* High availability & performance-focused backend
-
----
-
 ## 📈 What I Value
 
 * Clean, readable, and scalable code
@@ -122,6 +101,7 @@ I focus on clean architecture, performance, and building systems that scale reli
 * 💻 GitHub: [https://github.com/Rishabhg-rgb](https://github.com/Rishabhg-rgb)
 * 💼 Portfolio: [https://whynot-rishabh.in/](https://whynot-rishabh.in/)
 * 🎨 Pinterest: [https://in.pinterest.com/whynot_rishabh/](https://in.pinterest.com/whynot_rishabh/)
+*  𝕏 Twitter: [https://x.com/whynot_rishabh](https://x.com/whynot_rishabh)
 
 ---
 
